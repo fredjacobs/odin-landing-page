@@ -98,4 +98,63 @@ ul.nav-menu li{
     font-size: 36px;
     color:#1f2937;
     font-weight: bold;
+    margin-bottom:40px;
 }
+
+.info-cat {
+    text-align: center;
+}
+
+.quote-section{
+    background-color: #e5e7eb;
+}
+
+.quote-section .content {
+    width:900px;
+}
+
+#quote{
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+#author{
+    text-align: right;
+}
+
+.cta-inner{
+    background-color: #3882f6;
+    margin:40px auto;
+    padding:40px 60px;
+    border-radius: 10px;
+
+}
+
+#cta-text h2, #cta-text p{
+    color:#f9faf8;
+    margin:5px auto;
+}
+
+#cta-text, #cta-btn{
+    flex: 1;
+}
+
+#cta-btn{
+    text-align: right;
+   
+}
+
+.cta{
+    padding: 10px 25px;
+    background-color: transparent;
+    border:2px solid #f9faf8;
+    border-radius: 5px;
+}
+
+#cta-btn a{
+    color:#f9faf8;
+    text-decoration: none;
+}
+
