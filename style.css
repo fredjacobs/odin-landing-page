@@ -156,5 +156,12 @@ ul.nav-menu li{
 #cta-btn a{
     color:#f9faf8;
     text-decoration: none;
+    font-size: 18px;
+}
+
+.copyright{
+    padding:30px;
+    text-align: center;
+    color:#f9faf8;
 }
 
